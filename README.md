@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-
+<details>
+<summary><h2>📈 Stats</h2></summary>
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -42,6 +44,7 @@ No Activity Tracked This Week
 
  Last Updated on 14/02/2025 17:51:58 UTC
 <!--END_SECTION:waka-->
+</details>
 
 <!--
 **rmejia4209/rmejia4209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
