@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=vue-dark" alt="Jokes Card" />
 <!--
 **rmejia4209/rmejia4209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
