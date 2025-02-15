@@ -1,5 +1,6 @@
 # 👋 Hi there! I'm Rigo Mejia
-Welcome to my GitHub! Check out the projects I've been working on. If you'd like to connect, feel free to reach out on 
+Welcome to my GitHub! Check out the projects I've been working on.
+If you'd like to connect, feel free to reach out on [Linkedin](https://www.linkedin.com/in/rigoberto-mejia/)!
 ## 🛠️ Favorite Tech
 Langauges, tools, and other things I enjoy working with
 
