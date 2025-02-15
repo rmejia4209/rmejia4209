@@ -4,63 +4,60 @@ If you'd like to connect, feel free to reach out on [Linkedin](https://www.linke
 ## 🛠️ Favorite Tech
 Langauges, tools, and other things I enjoy working with
 
-<a href="https://www.flaticon.com/free-icons/python" title="python icons">
-    <img src='./assets/python.png' width=50>
-</a>
-<a href="https://www.javascript.com" title="javascript icons">
-    <img src='./assets/JavaScript.png' width=50>
-</a>
-<a href="https://www.typescriptlang.org" title="typescript icons">
-    <img src='./assets/TypeScript.png' width=50>
-</a>
-<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" title="typescript icons">
-    <img src='./assets/C.png' width=50>
-</a>
-<a href="https://www.flaticon.com/free-icons/mysql" title="mysql icons">
-    <img src='./assets/mysql.png' width=50>
-</a>
-<a href="https://www.postgresql.org" title="Postgress">
-    <img src='./assets/PostgresSQL.png' width=50>
-</a>
-<a href='https://doc.qt.io/qt-5/index.html' title='QT Framework'>
-    <img src='./assets/Qt Framework.png' width=50>
-</a>
-<a href='https://www.djangoproject.com' title='django'>
-    <img src='./assets/Django.png' width=50 style="background-color: white; border-radius: 10px;">
-</a>
-<a href='https://fastapi.tiangolo.com' title='Fast API'>
-    <img src='./assets/FastAPI.png' width=50>
-</a>
-<a href='https://docs.pytest.org/en/stable/' title='pytest'>
-    <img src='./assets/pytest.png' width=50>
-</a>
-<a href='https://expressjs.com' title='Express'>
-    <img src='./assets/Express.png' width=50 style="background-color: white; border-radius: 10px;">
-</a>
-<a href='https://react.dev' title='React'>
-    <img src='./assets/React.png' width=50>
-</a>
-<a href='https://nextjs.org' title='Next.js'>
-    <img src='./assets/Next.js.png' width=50 style="background-color: white; border-radius: 10px;">
-</a>
-<a href='https://vite.dev' title='Vite'>
-    <img src='./assets/Vite.js.png' width=50>
-</a>
-<a href='https://daisyui.com' title='DaisyUI'>
-    <img src='./assets/daisyui.png' width=50>
-</a>
-<a href='https://tailwindcss.com' title='Tailwinds'>
-    <img src='./assets/Tailwind CSS.png' width=50>
-</a>
-<a href='https://github.com/CSS-Next/logo.css' title='CSS'>
-    <img src='./assets/css.png' width=50>
-</a>
-<a href='https://github.com/features/actions' title='GitHub Actions'>
-    <img src='./assets/GitHub Actions.png' width=50>
-</a>
-
-
-
+<span>
+    <img src='./assets/python.png' width=50 title='python'>
+</span>
+<span>
+    <img src='./assets/JavaScript.png' width=50 title='javascript'>
+</span>
+<span>
+    <img src='./assets/TypeScript.png' width=50 title='typescript'>
+</span>
+<span>
+    <img src='./assets/C.png' width=50 title='C'>
+</span>
+<span>
+    <img src='./assets/mysql.png' width=50 title='mysql'>
+</span>
+<span>
+    <img src='./assets/PostgresSQL.png' width=50 title='postgress'>
+</span>
+<span>
+    <img src='./assets/Qt Framework.png' width=50 title='QT Framework'>
+</span>
+<span>
+    <img src='./assets/Django.png' width=50 title='django'>
+</span>
+<span>
+    <img src='./assets/FastAPI.png' width=50 title='Fast API'>
+</span>
+<span>
+    <img src='./assets/pytest.png' width=50 title='pytest'>
+</span>
+<span>
+    <img src='./assets/Express.png' width=50 title='Express'>
+</span>
+<span>
+    <img src='./assets/React.png' width=50 title='React'>
+</span>
+<span>
+    <img src='./assets/Nextjs.png' width=50 title='Next.js'>
+</span>
+<span>
+    <img src='./assets/Vite.js.png' width=50 title='Vite'>
+</span>
+<span>
+    <img src='./assets/daisyui.png' width=50 title='DaisyUI'>
+</span>
+<span>
+    <img src='./assets/Tailwind CSS.png' width=50 title='Tailwinds'>
+</span>
+<span>
+    <img src='./assets/css.png' width=50 title='CSS'>
+</span>
+<span>
+    <img src='./assets/GitHub Actions.png' width=50 title='GitHub Actions'>
+</span>
 
 
 ## 📈 Stats
