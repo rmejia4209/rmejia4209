@@ -1,7 +1,68 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rigo Mejia
+Welcome to my GitHub! Check out the projects I've been working on. If you'd like to connect, feel free to reach out on 
+## 🛠️ Favorite Tech
+Langauges, tools, and other things I enjoy working with
 
-<details>
-<summary><h2>📈 Stats</h2></summary>
+<a href="https://www.flaticon.com/free-icons/python" title="python icons">
+    <img src='./assets/python.png' width=50>
+</a>
+<a href="https://www.javascript.com" title="javascript icons">
+    <img src='./assets/JavaScript.png' width=50>
+</a>
+<a href="https://www.typescriptlang.org" title="typescript icons">
+    <img src='./assets/TypeScript.png' width=50>
+</a>
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" title="typescript icons">
+    <img src='./assets/C.png' width=50>
+</a>
+<a href="https://www.flaticon.com/free-icons/mysql" title="mysql icons">
+    <img src='./assets/mysql.png' width=50>
+</a>
+<a href="https://www.postgresql.org" title="Postgress">
+    <img src='./assets/PostgresSQL.png' width=50>
+</a>
+<a href='https://doc.qt.io/qt-5/index.html' title='QT Framework'>
+    <img src='./assets/Qt Framework.png' width=50>
+</a>
+<a href='https://www.djangoproject.com' title='django'>
+    <img src='./assets/Django.png' width=50 style="background-color: white; border-radius: 10px;">
+</a>
+<a href='https://fastapi.tiangolo.com' title='Fast API'>
+    <img src='./assets/FastAPI.png' width=50>
+</a>
+<a href='https://docs.pytest.org/en/stable/' title='pytest'>
+    <img src='./assets/pytest.png' width=50>
+</a>
+<a href='https://expressjs.com' title='Express'>
+    <img src='./assets/Express.png' width=50 style="background-color: white; border-radius: 10px;">
+</a>
+<a href='https://react.dev' title='React'>
+    <img src='./assets/React.png' width=50>
+</a>
+<a href='https://nextjs.org' title='Next.js'>
+    <img src='./assets/Next.js.png' width=50 style="background-color: white; border-radius: 10px;">
+</a>
+<a href='https://vite.dev' title='Vite'>
+    <img src='./assets/Vite.js.png' width=50>
+</a>
+<a href='https://daisyui.com' title='DaisyUI'>
+    <img src='./assets/daisyui.png' width=50>
+</a>
+<a href='https://tailwindcss.com' title='Tailwinds'>
+    <img src='./assets/Tailwind CSS.png' width=50>
+</a>
+<a href='https://github.com/CSS-Next/logo.css' title='CSS'>
+    <img src='./assets/css.png' width=50>
+</a>
+<a href='https://github.com/features/actions' title='GitHub Actions'>
+    <img src='./assets/GitHub Actions.png' width=50>
+</a>
+
+
+
+
+
+## 📈 Stats
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -44,19 +105,4 @@ No Activity Tracked This Week
 
  Last Updated on 14/02/2025 17:51:58 UTC
 <!--END_SECTION:waka-->
-</details>
 
-<!--
-**rmejia4209/rmejia4209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
