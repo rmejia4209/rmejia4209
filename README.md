@@ -63,6 +63,12 @@ Langauges, tools, and other things I enjoy working with
 
 
 # 🚀 Favorite Projects
+## [Rock Radar](https://github.com/rmejia4209/Rock-Radar)
+Rock Radar
+A PyQt5 desktop application that helps climbers compare rock climbing crags by
+filtering and sorting routes based on route metrics and density. The app
+leverages BeautifulSoup for web scraping and QThreads for smooth background
+processing, ensuring a responsive user experience.
 ## [Airwaves and Beats](https://github.com/rmejia4209/Airwaves-and-Beats)
 This app plays lofi beats over live air traffic control. It's inspired by
 [Lofiatc](https://www.lofiatc.com/?icao=panc), which has been down since
