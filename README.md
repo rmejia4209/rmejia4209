@@ -58,11 +58,22 @@ Langauges, tools, and other things I enjoy working with
 <span>
     <img src='./assets/GitHub Actions.png' width=50 title='GitHub Actions'>
 </span>
+<span>
+    <img src='./assets/WebAssembly.png' width=50 title='WASM'>
+</span>
 <br></br>
 
 
 
 # 🚀 Favorite Projects
+## [2048](https://github.com/rmejia4209/2048)
+My attempt at cloning the [classic 2048](https://play2048.co), built from
+scratch with React and featuring a simple solver that can play the game
+automatically During development, I experimented with C, WASM, and parallelism
+to optimize the solver's speed and benchmark its performance. Check it out
+[here](https://rmejia4209.github.io/2048/)!
+
+
 ## [Rock Radar](https://github.com/rmejia4209/Rock-Radar)
 Rock Radar
 A PyQt5 desktop application that helps climbers compare rock climbing crags by
