@@ -114,15 +114,13 @@ serve media and a proxy to stream the air traffic control feed.
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.62 % 
-CSS                      2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.78 % 
-Python                   2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.59 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 19 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/08/2025 09:30:00 UTC
+ Last Updated on 18/08/2025 09:29:28 UTC
 <!--END_SECTION:waka-->
 
