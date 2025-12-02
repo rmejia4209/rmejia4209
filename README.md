@@ -75,7 +75,6 @@ to optimize the solver's speed and benchmark its performance. Check it out
 
 
 ## [Rock Radar](https://github.com/rmejia4209/Rock-Radar)
-Rock Radar
 A PyQt5 desktop application that helps climbers compare rock climbing crags by
 filtering and sorting routes based on route metrics and density. The app
 leverages BeautifulSoup for web scraping and QThreads for smooth background
